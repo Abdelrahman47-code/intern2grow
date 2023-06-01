@@ -1,2 +1,5 @@
 # intern2grow
 I show in this repo my work in the Data Analysis Virtual Internship form intern2grow.
+
+I appreciate the intern2grow team giving me this chance to use the data skills I've learned in a virtual internship like this.
+To obtain the final results, I applied a few techniques to the dataset. First, I cleaned up the data by removing duplicate rows, replacing them with the median values of comparable rows from the same category, and renaming certain categories that were given the wrong names (for example, changing Bgas to Bags and Cloting to Clothing). Then I created this dynamic dashboard using Power BI, allowing us to select the category to get sales insights. The dashboard's headers display the most actionable data, like Total Revenue, Average Revenue, Highest Product for Selected Category, etc. There is also Area Chart to show the sales under each quarter in the year. The bar chart shows the total revenue for products related to each category. Finally, you can use the slicer to show the sales of each category.
